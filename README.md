@@ -1,3 +1,4 @@
-# chat_ui
+# Chat UI
 
-A Flutter project for practicing UI, Light & Dark mode
+I've built this Flutter app from WhatsApp inspiration, to get my hand dirty with Flutter UI.
+
